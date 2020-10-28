@@ -1,4 +1,4 @@
-package com.fabiankevin.gradle.app;
+package com.fabiankevin.gradle.multiprojectdemo;
 
 import com.fabiankevin.gradle.user.Student;
 import com.fabiankevin.gradle.user.gateway.StudentGateway;

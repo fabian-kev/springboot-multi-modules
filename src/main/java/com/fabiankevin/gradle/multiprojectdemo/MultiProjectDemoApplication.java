@@ -1,4 +1,4 @@
-package com.fabiankevin.gradle.app;
+package com.fabiankevin.gradle.multiprojectdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

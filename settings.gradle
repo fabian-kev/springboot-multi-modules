@@ -1,7 +1,6 @@
 rootProject.name = 'multi-project-demo'
 
 include(
-        'app',
         'common',
         'user'
 )
